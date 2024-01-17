@@ -14,8 +14,7 @@ DResponsive Portfolio
 To view this portfolio locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/Gilmorecollins/Responsive-login-projects.git`
-2. Navigate to the project directory: `cd portfolio`
-3. Open `index.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 
